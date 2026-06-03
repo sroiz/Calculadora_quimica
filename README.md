@@ -2,7 +2,7 @@
 Calculadora de masa molar de un compuesto y conversor de unidades (gramos,moles,moléculas)
 ## ¿Qué hace?
 -Calcula la masa molar de un compuesto dado por el usuario
--Convertir unidades entre gramos, moles y moléculas 
+-Convierte unidades entre gramos, moles y moléculas 
 ## ¿Comó usarlo?
 1. Ejecuta archivo `calculadora_quimica.py`
 2. Elije opción del menú
